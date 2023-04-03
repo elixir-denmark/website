@@ -47,7 +47,7 @@ Thematic Hackathon 2: RNA analysis
 August 27--28, Odense, Denmark  
 1st Danish Bioinformatics Conference
 
-November 24--25 2014, Copenhagen, Denmark
+November 24--25 2014, Copenhagen, Denmark  
 ELIXIR Innovation and SME Forum: Turning big data into growth
 
 November 19--21 2014, Lyngby, Denmark  

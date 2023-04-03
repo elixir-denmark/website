@@ -17,7 +17,8 @@ November 18--19 2021, Aalborg, Denmark
 August 22--23 2019, Odense, Denmark  
 5th Danish Bioinformatics Conference
 
-GATK4 workshop. January 29-February 1, 2019, Aalborg University, Copenhagen, Denmark.
+January 29--February 1 2019, Copenhagen, Denmark  
+GATK4 workshop
 
 August 29--30 2018, Odense, Denmark  
 4th Danish Bioinformatics Conference

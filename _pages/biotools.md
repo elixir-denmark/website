@@ -12,4 +12,4 @@ Use the [bio.tools portal](https://bio.tools/) to search for, and /or register r
 
 View a bio.tools example: [SignalP](https://bio.tools/signalp) or [STRING](https://bio.tools/string)
 
-![Registry Workflow](/assets/RegistryWorkflow.png)
+![Registry workflow](biotools_workflow.png)

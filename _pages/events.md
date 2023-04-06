@@ -9,6 +9,8 @@ permalink: /events/
 7--8 September 2023, Aarhus, Denmark  
 7th Danish Bioinformatics Conference
 
+## TODO: flyer
+
 ## Past events
 
 18--19 November 2021, Aalborg, Denmark  

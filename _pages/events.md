@@ -3,13 +3,12 @@ title: Events
 layout: single
 permalink: /events/
 ---
-
 ## Upcoming events
 
 7--8 September 2023, Aarhus, Denmark  
 7th Danish Bioinformatics Conference
 
-## TODO: flyer
+<!-- TODO: flyer -->
 
 ## Past events
 

@@ -5,7 +5,7 @@ permalink: /biotools/
 ---
 ## ELIXIR Tools and Data Services Registry
 
-The Registry serves as a gateway to databases and tools for Life Science. It was designed with focus on both 
+The Registry serves as a gateway to databases and tools for Life Science. It was designed with focus on both
 discovery and integration of life science resources and a flexible web interface as well as programmatic access.
 
 bio.tools is part of the [Tools Ecosystem](https://elixir-europe.org/internal-projects/commissioned-services/tools-platform-ecosystem)

@@ -16,4 +16,4 @@ View a bio.tools example: [SignalP](https://bio.tools/signalp) or [STRING](https
 
 <!--[Registry workflow](biotools_workflow.png)-->
 ![Overview](assets/images/biotools_overview.png)
-![biotools_schema](assets/imaages/ProConAnnotated.svg)
+![biotools_schema](assets/images/ProConAnnotated.svg)

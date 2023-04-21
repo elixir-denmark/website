@@ -15,5 +15,5 @@ Use the [bio.tools portal](https://bio.tools/) to search for, and/or register re
 View a bio.tools example: [SignalP](https://bio.tools/signalp) or [STRING](https://bio.tools/string)
 
 <!--[Registry workflow](biotools_workflow.png)-->
-![Overview](/assets/images/biotools_overview.png)
-![biotools_schema](/assets/images/ProConAnnotated.svg)
+![Overview]({{ site.baseurl }}/assets/images/biotools_overview.png)
+![biotools_schema]({{ site.baseurl }}/assets/images/ProConAnnotated.svg)

@@ -17,4 +17,4 @@ bio.tools is part of the [Tools Ecosystem](https://elixir-europe.org/internal-pr
 View a bio.tools example: [SignalP](https://bio.tools/signalp) or [STRING](https://bio.tools/string)
 
 <!--[Registry workflow](biotools_workflow.png)-->
-![Overview](/assets/images/biotools_overview.png)
+![Overview](images/biotools_overview.png)

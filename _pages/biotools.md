@@ -10,11 +10,11 @@ discovery and integration of life science resources and a flexible web interface
 
 Use the [bio.tools portal](https://bio.tools/) to search for, and/or register resources in the Registry.
 
-![biotools_schema](/assets/images/ProConAnnotated.svg)
+![biotools_schema]({{ site.baseurl }}/assets/images/ProConAnnotated.svg)
 
 bio.tools is part of the [Tools Ecosystem](https://elixir-europe.org/internal-projects/commissioned-services/tools-platform-ecosystem)
 
 View a bio.tools example: [SignalP](https://bio.tools/signalp) or [STRING](https://bio.tools/string)
 
 <!--[Registry workflow](biotools_workflow.png)-->
-![Overview](/assets/images/biotools_overview.png)
+![Overview]({{ site.baseurl }}/assets/images/biotools_overview.png)

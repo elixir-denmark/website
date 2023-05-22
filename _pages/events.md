@@ -8,9 +8,9 @@ permalink: /events/
 7--8 September 2023, Aarhus, Denmark  
 7th Danish Bioinformatics Conference
 
-![]({{ site.baseurl }}/assets/images/Poster2023_Small.svg)
+[Register here](https://eventsignup.ku.dk/elixirdenmark-danishbioinformaticsconference/conference)
 
-[Registration](https://eventsignup.ku.dk/elixirdenmark-danishbioinformaticsconference/conference)
+![]({{ site.baseurl }}/assets/images/Poster2023_Small.svg)
 
 ## Past events
 

@@ -5,6 +5,11 @@ permalink: /events/
 ---
 ## Upcoming events
 
+21--22 August 2024, Copenhagen, Denmark  
+8th Danish Bioinformatics Conference
+
+![]({{ site.baseurl }}/assets/images/Poster2024_SaveTheDate_v2.svg)
+
 ## Past events
 
 7--8 September 2023, Aarhus, Denmark  

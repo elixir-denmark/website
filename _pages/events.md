@@ -6,9 +6,9 @@ permalink: /events/
 ## Upcoming events
 
 21--22 August 2024, Copenhagen, Denmark  
-8th Danish Bioinformatics Conference
+8th Danish Bioinformatics Conference ([Website](https://eventsignup.ku.dk/8danishbioinfconference/))
 
-![]({{ site.baseurl }}/assets/images/Poster2024_SaveTheDate_240503.png)
+![]({{ site.baseurl }}/assets/images/Poster2024_SaveTheDate_240514.png)
 
 ## Past events
 

@@ -11,8 +11,9 @@ permalink: /events/
 Conference website: coming soon  
 Contact the organizers: [via email](mailto:as@hst.aau.dk)  
 
-![Conference flyer]({{ site.baseurl }}/assets/images/Poster2025_SaveTheDate_140225.png) 
-*Conference flyer (14 Feb 2025)*  
+| ![Conference flyer]({{ site.baseurl }}/assets/images/Poster2025_SaveTheDate_140225.png) |
+|:-:|
+| *Conference flyer (14 Feb 2025)* |  
 
 ## Past events
 

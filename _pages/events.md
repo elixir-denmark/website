@@ -9,7 +9,7 @@ permalink: /events/
 9th Danish Bioinformatics Conference
 
 Conference website: coming soon  
-Contact the organizers: as@hst.aau.dk  
+Contact the organizers: [via email](mailto:as@hst.aau.dk)
 
 ![]({{ site.baseurl }}/assets/images/Poster2025_SaveTheDate_140225.png)
 

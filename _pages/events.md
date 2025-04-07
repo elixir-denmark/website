@@ -8,6 +8,10 @@ permalink: /events/
 27--28 October 2025, Aalborg, Denmark  
 9th Danish Bioinformatics Conference
 
+Conference website: coming soon
+Contact the organizers: as@hst.aau.dk
+
+Conference flyer (14 Feb 2025)
 ![]({{ site.baseurl }}/assets/images/Poster2025_SaveTheDate_140225.png)
 
 ## Past events

@@ -8,8 +8,8 @@ permalink: /events/
 27--28 October 2025, Aalborg, Denmark  
 9th Danish Bioinformatics Conference
 
-Conference website: https://eventsignup.ku.dk/9danishbioinfconference  
-Contact the organizers: [via email](mailto:as@hst.aau.dk)  
+[Conference website](https://eventsignup.ku.dk/9danishbioinfconference)  
+[Contact the organizers via email](mailto:as@hst.aau.dk)  
 
 | ![Conference flyer]({{ site.baseurl }}/assets/images/Poster2025_SaveTheDate_140225.png) |
 |:-:|

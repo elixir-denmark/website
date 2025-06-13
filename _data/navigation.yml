@@ -1,6 +1,7 @@
 main:
   - title: "Home"
     url: /
+  - title: "Activities"
   - title: "bio.tools"
     url: /biotools/
   - title: "Events"
@@ -9,3 +10,8 @@ main:
     url: /organisation/
   - title: "Training"
     url: /training/
+activities:
+  - title: "bio.tools"
+    url: /activities/#biotools
+  - title: "BioGLUE"
+    url: /activities/#bioglue

@@ -1,11 +1,23 @@
 main:
   - title: "Home"
     url: /
-  - title: "bio.tools"
-    url: /biotools/
+  - title: "About"
+    url: /about/
+  - title: "Projects"
+    url: /projects/
   - title: "Events"
     url: /events/
-  - title: "Organisation"
-    url: /organisation/
   - title: "Training"
     url: /training/
+
+about: 
+  - title: "Leadership"
+    url: /about/#Leadership
+  - title: "Steering group"
+    url: /about/#steering-group
+
+projects:
+  - title: "bio.tools"
+    url: /projects/#biotools
+  - title: "BioGLUE"
+    url: /projects/#bioglue

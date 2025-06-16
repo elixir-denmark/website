@@ -8,15 +8,15 @@ feature_row:
   - image_path: /_pages/about_Jan-Gorodkin.jpg
     alt: "Jan Gorodkin"
     title: "Jan Gorodkin"
-    excerpt: 'Head of Node, University of Copenhagen (UCPH)`type="center"`'
+    excerpt: "Head of Node, University of Copenhagen (UCPH)"
   - image_path: /_pages/about_Betina-W-Jensen.jpg
     alt: "Betina Wingreen Jensen"
     title: "Betina Wingreen Jensen"
-    excerpt: 'Current Node Coordinator, University of Copenhagen (UCPH)`type="center"`'
+    excerpt: "Current Node Coordinator, University of Copenhagen (UCPH)"
   - image_path: /_pages/about_Kathrine_Richter.jpg
     alt: "Kathrine Richter"
     title: "Kathrine Richter"
-    excerpt: 'Former Node Coordinator, University of Copenhagen (UCPH)`type="center"`'
+    excerpt: "Former Node Coordinator, University of Copenhagen (UCPH)"
 feature_row1:
   - image_path: /_pages/about_SC_Allan-Stensballe.jpg
     alt: "Allan Stensballe"
@@ -30,7 +30,6 @@ feature_row1:
     alt: "Bartlomiej Wilkowski"
     title: "Bartlomiej Wilkowski"
     excerpt: "Statens Serum Institut (SSI)"
-feature_row2:
   - image_path: /_pages/about_SC_Mikkel_Heide_Schierup2.jpg
     alt: "Mikkel Heide Schierup "
     title: "Mikkel Heide Schierup"
@@ -53,7 +52,7 @@ ELIXIR Denmark, which is established in a partnership between Danish Universitie
 
 ## Leadership
 
-{% include feature_row %}
+{% include feature_row type="center" %}
 
 ### Head of Node
 
@@ -75,7 +74,5 @@ Kathrine Richter, University of Copenhagen (UCPH)
 
 ## Steering group
 
-{% include feature_row id="feature_row1" type="center" %}
-
-{% include feature_row id="feature_row2" type="center" %}
+{% include feature_row id="feature_row1" %}
 

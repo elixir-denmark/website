@@ -74,5 +74,5 @@ Kathrine Richter, University of Copenhagen (UCPH)
 
 ## Steering group
 
-{% include feature_row id="feature_row1" %}
+{% include feature_row id="feature_row1" type="center" %}
 

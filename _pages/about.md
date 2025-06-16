@@ -4,6 +4,19 @@ layout: single
 permalink: /about/
 sidebar:
   nav: "about"
+feature_row:
+  - image_path: about_Jan-Gorodkin.jpg
+    alt: "Jan Gorodkin"
+    title: "Head of Node"
+    excerpt: "Jan Gorodkin, University of Copenhagen (UCPH)"
+  - image_path: about_Betina-W-Jensen.jpg
+    alt: "Betina Wingreen Jensen"
+    title: "Node coordinator - Current"
+    excerpt: "Betina Wingreen Jensen, University of Copenhagen (UCPH)"
+  - image_path: about_Kathrine_Richter.jpg
+    alt: "Kathrine Richter"
+    title: "Node coordinator - Former"
+    excerpt: "Kathrine Richter, University of Copenhagen (UCPH)"
 ---
 
 ELIXIR Denmark, which is established in a partnership between Danish Universities, is a member of [ELIXIR](https://elixir-europe.org/), an intergovernmental organisation that coordinates, integrates and sustains bioinformatics resources across its member states and enables users in academia and industry to access vital data, tools, standards, compute and training services for their research. 
@@ -31,19 +44,6 @@ Kathrine Richter, University of Copenhagen (UCPH)
 
 ### All three
 
-feature_row:
-  - image_path: about_Jan-Gorodkin.jpg
-    alt: "Jan Gorodkin"
-    title: "Head of Node"
-    excerpt: "Jan Gorodkin, University of Copenhagen (UCPH)"
-  - image_path: about_Betina-W-Jensen.jpg
-    alt: "Betina Wingreen Jensen"
-    title: "Node coordinator - Current"
-    excerpt: "Betina Wingreen Jensen, University of Copenhagen (UCPH)"
-  - image_path: about_Kathrine_Richter.jpg
-    alt: "Kathrine Richter"
-    title: "Node coordinator - Former"
-    excerpt: "Kathrine Richter, University of Copenhagen (UCPH)"
 
 {% include feature_row %}
 

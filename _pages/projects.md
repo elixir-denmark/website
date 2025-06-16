@@ -1,12 +1,12 @@
 ---
-title: Activities
+title: Projects
 layout: single
-permalink: /activities/
+permalink: /projects/
 sidebar:
-  nav: "activities"
+  nav: "projects"
 ---
 
-# ELIXIR Denmark Activities
+# ELIXIR Denmark Projects
 
 ## ELIXIR Tools and Data Services Registry
 

@@ -12,11 +12,11 @@ feature_row:
   - image_path: /_pages/about_Betina-W-Jensen.jpg
     alt: "Betina Wingreen Jensen"
     title: "Betina Wingreen Jensen"
-    excerpt: "Node coordinator - Current, University of Copenhagen (UCPH)"
+    excerpt: "Current Node Coordinator, University of Copenhagen (UCPH)"
   - image_path: /_pages/about_Kathrine_Richter.jpg
     alt: "Kathrine Richter"
     title: "Kathrine Richter"
-    excerpt: "Node coordinator - Former, University of Copenhagen (UCPH)"
+    excerpt: "Former Node Coordinator, University of Copenhagen (UCPH)"
 feature_row1:
   - image_path: /_pages/about_SC_Allan-Stensballe.jpg
     alt: "Allan Stensballe"

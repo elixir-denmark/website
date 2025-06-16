@@ -54,24 +54,6 @@ ELIXIR Denmark, which is established in a partnership between Danish Universitie
 
 {% include feature_row type="center" %}
 
-### Head of Node
-
-![Jan Gorodkin](about_Jan-Gorodkin.jpg) 
-
-Jan Gorodkin, University of Copenhagen (UCPH)
-
-### Current Node Coordinator
-
-![Betina Wingreen Jensen](about_Betina-W-Jensen.jpg) 
-
-Betina Wingreen Jensen, University of Copenhagen (UCPH)
-
-### Former Node Coordinator
-
-![Kathrine Richter](about_Kathrine_Richter.jpg)
-
-Kathrine Richter, University of Copenhagen (UCPH)
-
 ## Steering group
 
 {% include feature_row id="feature_row1" type="center" %}

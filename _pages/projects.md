@@ -1,12 +1,10 @@
 ---
-title: Projects
+title: ELIXIR Denmark Projects
 layout: single
 permalink: /projects/
 sidebar:
   nav: "projects"
 ---
-
-# ELIXIR Denmark Projects
 
 ## ELIXIR Tools and Data Services Registry
 

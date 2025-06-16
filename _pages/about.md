@@ -8,8 +8,22 @@ ELIXIR Denmark, which is established in a partnership between Danish Universitie
 
 ## Leadership
 
-| Head of Node | Node Coordinator - New | Node Coordinator - Former |
-| Jan Gorodkin, KU | Betina Wingreen Jensen, KU | Kathrine Richter, KU |
-| ![Jan Gorodkin](about_Jan-Gorodkin.jpg) | ![Betina Wingreen Jensen](about_Betina-W-Jensen.jpg) | ![Kathrine Richter](about_Kathrine_Richter.jpg) |
+### Head of Node
+
+![Jan Gorodkin](about_Jan-Gorodkin.jpg) 
+
+Jan Gorodkin, University of Copenhagen (UCPH)
+
+### Node coordinator - New
+
+![Betina Wingreen Jensen](about_Betina-W-Jensen.jpg) 
+
+Betina Wingreen Jensen, University of Copenhagen (UCPH)
+
+### Node coordinator - Former
+
+![Kathrine Richter](about_Kathrine_Richter.jpg)
+
+Kathrine Richter, University of Copenhagen (UCPH)
 
 ## Steering group

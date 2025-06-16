@@ -7,21 +7,21 @@ sidebar:
 feature_row:
   - image_path: /_pages/about_Jan-Gorodkin.jpg
     alt: "Jan Gorodkin"
-    title: "Head of Node"
-    excerpt: "Jan Gorodkin, University of Copenhagen (UCPH)"
+    title: "Jan Gorodkin"
+    excerpt: "Head of Node, University of Copenhagen (UCPH)"
   - image_path: /_pages/about_Betina-W-Jensen.jpg
     alt: "Betina Wingreen Jensen"
-    title: "Node coordinator - Current"
-    excerpt: "Betina Wingreen Jensen, University of Copenhagen (UCPH)"
+    title: "Betina Wingreen Jensen"
+    excerpt: "Node coordinator - Current, University of Copenhagen (UCPH)"
   - image_path: /_pages/about_Kathrine_Richter.jpg
     alt: "Kathrine Richter"
-    title: "Node coordinator - Former"
-    excerpt: "Kathrine Richter, University of Copenhagen (UCPH)"
+    title: "Kathrine Richter"
+    excerpt: "Node coordinator - Former, University of Copenhagen (UCPH)"
 feature_row1:
   - image_path: /_pages/about_SC_Allan-Stensballe.jpg
     alt: "Allan Stensballe"
     title: "Allan Stensballe"
-    excerpt: "Ålborg University (AAU)"
+    excerpt: "Aalborg University (AAU)"
   - image_path: /_pages/about_SC_Anders-Krogh.jpg
     alt: "Anders Krogh"
     title: "Anders Krogh"
@@ -34,11 +34,11 @@ feature_row2:
   - image_path: /_pages/about_SC_Mikkel_Heide_Schierup2.jpg
     alt: "Mikkel Heide Schierup "
     title: "Mikkel Heide Schierup"
-    excerpt: "Århus University (AU)"
+    excerpt: "Aarhus University (AU)"
   - image_path: /_pages/about_SC_Peter-Soerensen2.jpg
     alt: "Peter Sørensen"
     title: "Peter Sørensen"
-    excerpt: "Århus University (AU)"
+    excerpt: "Aarhus University (AU)"
   - image_path: /_pages/about_SC_Troels-T-Rasmussen2.jpg
     alt: "Troels Tvedegaard Rasmussen"
     title: "Troels Tvedegaard Rasmussen"
@@ -52,6 +52,8 @@ feature_row2:
 ELIXIR Denmark, which is established in a partnership between Danish Universities, is a member of [ELIXIR](https://elixir-europe.org/), an intergovernmental organisation that coordinates, integrates and sustains bioinformatics resources across its member states and enables users in academia and industry to access vital data, tools, standards, compute and training services for their research. 
 
 ## Leadership
+
+{% include feature_row}
 
 ### Head of Node
 

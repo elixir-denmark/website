@@ -53,7 +53,7 @@ ELIXIR Denmark, which is established in a partnership between Danish Universitie
 
 ## Leadership
 
-{% include feature_row}
+{% include feature_row %}
 
 ### Head of Node
 

@@ -52,9 +52,9 @@ ELIXIR Denmark, which is established in a partnership between Danish Universitie
 
 ## Leadership
 
-{% include feature_row type="center" %}
+{% include feature_row %}
 
 ## Steering group
 
-{% include feature_row id="feature_row1" type="center" %}
+{% include feature_row id="feature_row1" %}
 

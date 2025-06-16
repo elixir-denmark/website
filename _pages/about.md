@@ -8,15 +8,15 @@ feature_row:
   - image_path: /_pages/about_Jan-Gorodkin.jpg
     alt: "Jan Gorodkin"
     title: "Jan Gorodkin"
-    excerpt: "Head of Node, University of Copenhagen (UCPH)"
+    excerpt: 'Head of Node, University of Copenhagen (UCPH)`type="center"`'
   - image_path: /_pages/about_Betina-W-Jensen.jpg
     alt: "Betina Wingreen Jensen"
     title: "Betina Wingreen Jensen"
-    excerpt: "Current Node Coordinator, University of Copenhagen (UCPH)"
+    excerpt: 'Current Node Coordinator, University of Copenhagen (UCPH)`type="center"`'
   - image_path: /_pages/about_Kathrine_Richter.jpg
     alt: "Kathrine Richter"
     title: "Kathrine Richter"
-    excerpt: "Former Node Coordinator, University of Copenhagen (UCPH)"
+    excerpt: 'Former Node Coordinator, University of Copenhagen (UCPH)`type="center"`'
 feature_row1:
   - image_path: /_pages/about_SC_Allan-Stensballe.jpg
     alt: "Allan Stensballe"

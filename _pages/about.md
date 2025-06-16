@@ -30,11 +30,11 @@ feature_row1:
     alt: "Bartlomiej Wilkowski"
     title: "Bartlomiej Wilkowski"
     excerpt: "Statens Serum Institut (SSI)"
+feature_row2:
   - image_path: /_pages/about_SC_Mikkel_Heide_Schierup2.jpg
     alt: "Mikkel Heide Schierup "
     title: "Mikkel Heide Schierup"
     excerpt: "Århus University (AU)"
-feature_row2:
   - image_path: /_pages/about_SC_Peter-Soerensen2.jpg
     alt: "Peter Sørensen"
     title: "Peter Sørensen"
@@ -76,3 +76,4 @@ Kathrine Richter, University of Copenhagen (UCPH)
 {% include feature_row id="feature_row1" %}
 
 {% include feature_row id="feature_row2" %}
+

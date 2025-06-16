@@ -26,7 +26,6 @@ feature_row1:
     alt: "Anders Krogh"
     title: "Anders Krogh"
     excerpt: "University of Copenhagen (UCPH)"
-feature_row2:
   - image_path: /_pages/about_SC_Bart_Wilkowski.jpg
     alt: "Bartlomiej Wilkowski"
     title: "Bartlomiej Wilkowski"
@@ -35,7 +34,7 @@ feature_row2:
     alt: "Mikkel Heide Schierup "
     title: "Mikkel Heide Schierup"
     excerpt: "Århus University (AU)"
-feature_row3:
+feature_row2:
   - image_path: /_pages/about_SC_Peter-Soerensen2.jpg
     alt: "Peter Sørensen"
     title: "Peter Sørensen"
@@ -44,7 +43,6 @@ feature_row3:
     alt: "Troels Tvedegaard Rasmussen"
     title: "Troels Tvedegaard Rasmussen"
     excerpt: "National Genome Center (NGC)"
-feature_row4:
   - image_path: /_pages/about_SC_Veit_Schwammle2.jpg
     alt: "Veit Stefan Schwämmle"
     title: "Veit Stefan Schwämmle"
@@ -78,7 +76,3 @@ Kathrine Richter, University of Copenhagen (UCPH)
 {% include feature_row id="feature_row1" %}
 
 {% include feature_row id="feature_row2" %}
-
-{% include feature_row id="feature_row3" %}
-
-{% include feature_row id="feature_row4" %}

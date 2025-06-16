@@ -28,4 +28,24 @@ Betina Wingreen Jensen, University of Copenhagen (UCPH)
 
 Kathrine Richter, University of Copenhagen (UCPH)
 
+
+### All three
+
+feature_row:
+  - image_path: about_Jan-Gorodkin.jpg
+    alt: "Jan Gorodkin"
+    title: "Head of Node"
+    excerpt: "Jan Gorodkin, University of Copenhagen (UCPH)"
+  - image_path: about_Betina-W-Jensen.jpg
+    alt: "Betina Wingreen Jensen"
+    title: "Node coordinator - Current"
+    excerpt: "Betina Wingreen Jensen, University of Copenhagen (UCPH)"
+  - image_path: about_Kathrine_Richter.jpg
+    alt: "Kathrine Richter"
+    title: "Node coordinator - Former"
+    excerpt: "Kathrine Richter, University of Copenhagen (UCPH)"
+
+{% include feature_row %}
+
 ## Steering group
+

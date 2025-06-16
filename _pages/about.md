@@ -25,7 +25,7 @@ feature_row1:
   - image_path: /_pages/about_SC_Anders-Krogh.jpg
     alt: "Anders Krogh"
     title: "Anders Krogh"
-    excerpt: "Anders Krogh, University of Copenhagen (UCPH)"
+    excerpt: "University of Copenhagen (UCPH)"
 feature_row2:
   - image_path: /_pages/about_SC_Bart_Wilkowski.jpg
     alt: "Bartlomiej Wilkowski"
@@ -45,6 +45,10 @@ feature_row3:
     title: "Troels Tvedegaard Rasmussen"
     excerpt: "National Genome Center (NGC)"
 feature_row4:
+  - image_path: /_pages/about_SC_Veit_Schwammle2.jpg
+    alt: "Veit Stefan Schwämmle"
+    title: "Veit Stefan Schwämmle"
+    excerpt: "University of Southern Denmark (SDU)"
   - image_path: /_pages/about_SC_Veit_Schwammle2.jpg
     alt: "Veit Stefan Schwämmle"
     title: "Veit Stefan Schwämmle"

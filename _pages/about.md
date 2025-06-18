@@ -48,13 +48,13 @@ feature_row1:
     excerpt: "University of Southern Denmark (SDU)"
 ---
 
-ELIXIR Denmark, which is established in a partnership between Danish Universities, is a member of [ELIXIR](https://elixir-europe.org/), an intergovernmental organisation that coordinates, integrates and sustains bioinformatics resources across its member states and enables users in academia and industry to access vital data, tools, standards, compute and training services for their research. 
+ELIXIR Denmark is a member of [ELIXIR](https://elixir-europe.org/), an intergovernmental organisation that coordinates, integrates and sustains bioinformatics resources across its member states and enables users in academia and industry to access vital data, tools, standards, compute and training services for their research. ELIXIR Denmark is established in a partnership between six Danish Universities and institutes, represented by the members of the [steering committee](/about/#steering-committee). 
 
 ## Leadership
 
 {% include feature_row %}
 
-## Steering group
+## Steering Committee
 
 {% include feature_row id="feature_row1" %}
 

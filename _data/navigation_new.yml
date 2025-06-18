@@ -12,9 +12,9 @@ main:
 
 about: 
   - title: "Leadership"
-    url: /about/#Leadership
-  - title: "Steering group"
-    url: /about/#steering-group
+    url: /about/#leadership
+  - title: "Steering Committee"
+    url: /about/#steering-committee
 
 projects:
   - title: "bio.tools"

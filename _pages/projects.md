@@ -13,6 +13,11 @@ feature_row:
     alt: "Nadezhda T. Doncheva"
     title: "Nadezhda T. Doncheva"
     excerpt: "University of Copenhagen (UCPH)"
+feature_row2:
+  - image_path: /_pages/about_Jan-about_SC_Veit_Schwammle2.jpg
+    alt: "Veit Stefan Schwämmle"
+    title: "Veit Stefan Schwämmle"
+    excerpt: "University of Southern Denmark (SDU)"
 ---
 
 ## ELIXIR Tools and Data Services Registry
@@ -35,9 +40,7 @@ View a bio.tools example: [SignalP](https://bio.tools/signalp) or [STRING](https
 
 ### Active developers
 
-![Veit Stefan Schwämmle](about_SC_Veit_Schwammle2.jpg)
-
-Veit Stefan Schwämmle, University of Southern Denmark (SDU)
+{% include feature_row id="feature_row2" %}
 
 ## BioGLUE Unified Danish ELIXIRT infrastructure 
 

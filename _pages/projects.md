@@ -14,7 +14,7 @@ feature_row:
     title: "Nadezhda T. Doncheva"
     excerpt: "University of Copenhagen (UCPH)"
 feature_row2:
-  - image_path: /_pages/about_Jan-about_SC_Veit_Schwammle2.jpg
+  - image_path: /_pages/about_SC_Veit_Schwammle2.jpg
     alt: "Veit Stefan Schwämmle"
     title: "Veit Stefan Schwämmle"
     excerpt: "University of Southern Denmark (SDU)"

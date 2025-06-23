@@ -43,7 +43,7 @@ View a bio.tools example: [SignalP](https://bio.tools/signalp) or [STRING](https
 <!--[Registry workflow](biotools_workflow.png)-->
 ![Overview]({{ site.baseurl }}/assets/images/biotools_overview.png)
 
-### Contact names
+### Contact
 
 <div id="images">
     <a href="mailto:veits@bmb.sdu.dk">
@@ -58,7 +58,7 @@ Nowadays, biological data originates from many different experimental techniques
 
 The goal of the BioGLUE project is to provide a unified Danish infrastructure for seamless data and tool interoperability. The project will align with the European ELIXIR Infrastructure and enable fully functional data analysis workflows for a wide range of researchers, both nationally and internationally. This will be accomplished with the help of large language models, which can be utilized for automated data conversion and integration, or least to facilitate the harmonization of data from different sources. Use cases will include data for non-coding RNA and CRISPR gene editing, which presents the challenge of combining RNA structures with high-throughput RNA structure probing. Further work will involve the integration with genomics, transcriptomics, proteomics, and metagenomics data. 
 
-### Contact names
+### Contact
 
 <div id="images">
     <a href="mailto:gorodkin@sund.ku.dk">

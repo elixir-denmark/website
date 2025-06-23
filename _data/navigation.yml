@@ -9,3 +9,15 @@ main:
     url: /organisation/
   - title: "Training"
     url: /training/
+
+about: 
+  - title: "Leadership"
+    url: /about/#leadership
+  - title: "Steering Committee"
+    url: /about/#steering-committee
+
+projects:
+  - title: "bio.tools"
+    url: /projects/#biotools
+  - title: "BioGLUE"
+    url: /projects/#bioglue

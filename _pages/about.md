@@ -75,35 +75,35 @@ ELIXIR Denmark is a member of [ELIXIR](https://elixir-europe.org/), an intergove
 
 <div id="images">
     <a href="">
-        <img alt="Jan Gorodkin" src="/_pages/about_SC_Allan-Stensballe.jpg" width="120" hspace="50" />
+        <img alt="Allan Stensballe" src="/_pages/about_SC_Allan-Stensballe.jpg" width="120" hspace="50" />
         <div class="caption" width="90">Allan Stensballe (AAU)</div>
     </a>
     <a href="">
-        <img alt="Betina Wingreen Jensen" src="/_pages/about_SC_Anders-Krogh.jpg" width="120" hspace="50" />
+        <img alt="Anders Krogh" src="/_pages/about_SC_Anders-Krogh.jpg" width="120" hspace="50" />
         <div class="caption" width="90">Anders Krogh (UCPH)</div>
     </a>
     <a href="">
-        <img alt="Kathrine Richter" src="/_pages/about_SC_Bart_Wilkowski.jpg" width="120" hspace="50" />
+        <img alt="Bartlomiej Wilkowski" src="/_pages/about_SC_Bart_Wilkowski.jpg" width="120" hspace="50" />
         <div class="caption" width="90">Bartlomiej Wilkowski (SSI)</div>
     </a>
     <a href="">
-        <img alt="Kathrine Richter" src="/_pages/about_Jan-Gorodkin.jpg.jpg" width="120" hspace="50" />
+        <img alt="Jan Gorodkin" src="/_pages/about_Jan-Gorodkin.jpg" width="120" hspace="50" />
         <div class="caption" width="90">Jan Gorodkin (UCPH)</div>
     </a>
     <a href="">
-        <img alt="Kathrine Richter" src="/_pages/about_SC_Mikkel_Heide_Schierup.jpg" width="120" hspace="50" />
+        <img alt="Mikkel Heide Schierup" src="/_pages/about_SC_Mikkel_Heide_Schierup.jpg" width="120" hspace="50" />
         <div class="caption" width="90">Mikkel Heide Schierup (AU)</div>
     </a>
     <a href="">
-        <img alt="Kathrine Richter" src="/_pages/about_SC_Peter-Soerensen.jpg" width="120" hspace="50" />
+        <img alt="Peter Sørensen" src="/_pages/about_SC_Peter-Soerensen.jpg" width="120" hspace="50" />
         <div class="caption" width="90">Peter Sørensen (AU)</div>
     </a>
     <a href="">
-        <img alt="Kathrine Richter" src="/_pages/about_SC_Veit_Schwammle.jpg" width="120" hspace="50" />
+        <img alt="Troels Tvedegaard Rasmussen" src="/_pages/about_SC_Troels-T-Rasmussen.jpg" width="120" hspace="50" />
         <div class="caption" width="90">Troels Tvedegaard Rasmussen (NGC)</div>
     </a>
     <a href="">
-        <img alt="Kathrine Richter" src="/_pages/about_SC_Veit_Schwammle.jpg" width="120" hspace="50" />
+        <img alt="Veit Stefan Schwämmle" src="/_pages/about_SC_Veit_Schwammle.jpg" width="120" hspace="50" />
         <div class="caption" width="90">Veit Stefan Schwämmle (SDU)</div>
     </a>
 </div>

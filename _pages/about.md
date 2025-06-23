@@ -60,11 +60,15 @@ ELIXIR Denmark is a member of [ELIXIR](https://elixir-europe.org/), an intergove
 <div id="images">
     <a href="">
         <img alt="Jan Gorodkin" src="/_pages/about_Jan-Gorodkin.jpg" width="120" hspace="50" />
-        <div class="caption" width="90">Head of Node</br> University of Copenhagen (UCPH)</div>
+        <div class="caption" width="90">Head of Node</div>
     </a>
     <a href="">
-        <img alt="Betina Wingreen Jensen" src="/_pages/about_Betina-W-Jensen2.JPG" width="120" hspace="50" />
-        <div class="caption" width="90">Current Node Coordinator </br> University of Copenhagen (UCPH)</div>
+        <img alt="Betina Wingreen Jensen" src="/_pages/about_Betina-W-Jensen.JPG" width="120" hspace="50" />
+        <div class="caption" width="90">Current Node Coordinator</div>
+    </a>
+    <a href="">
+        <img alt="Kathrine Richter" src="/_pages/about_Kathrine_Richter.JPG" width="120" hspace="50" />
+        <div class="caption" width="90">Former Node Coordinator</div>
     </a>
 </div>
 

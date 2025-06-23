@@ -30,6 +30,10 @@ feature_row1:
     alt: "Bartlomiej Wilkowski"
     title: "Bartlomiej Wilkowski"
     excerpt: "Statens Serum Institut (SSI)"
+  - image_path: /_pages/about_Jan-Gorodkin.jpg
+    alt: "Jan Gorodkin"
+    title: "Jan Gorodkin"
+    excerpt: "Head of Node, University of Copenhagen (UCPH)"
   - image_path: /_pages/about_SC_Mikkel_Heide_Schierup2.jpg
     alt: "Mikkel Heide Schierup "
     title: "Mikkel Heide Schierup"

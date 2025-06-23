@@ -47,8 +47,8 @@ View a bio.tools example: [SignalP](https://bio.tools/signalp) or [STRING](https
 
 <div id="images">
     <a href="mailto:veits@bmb.sdu.dk">
-        <img alt="Veit Stefan Schwämmle" src="/_pages/about_SC_Veit_Schwammle.jpg" width="120" hspace="50" />
-        <div class="caption" width="90">Veit Stefan Schwämmle</div>
+        <img alt="Veit Stefan Schwämmle" src="/_pages/about_SC_Veit_Schwammle.jpg" width="120" />
+        <div class="caption" width="90">Veit Stefan Schwämmle, SDU</div>
     </a>
 </div>
 
@@ -62,11 +62,11 @@ The goal of the BioGLUE project is to provide a unified Danish infrastructure fo
 
 <div id="images">
     <a href="mailto:gorodkin@sund.ku.dk">
-        <img alt="Jan Gorodkin" src="/_pages/about_Jan-Gorodkin.jpg" width="120" hspace="50" />
-        <div class="caption" width="90">Jan Gorodkin</div>
+        <img alt="Jan Gorodkin" src="/_pages/about_Jan-Gorodkin.jpg" width="120" />
+        <div class="caption">Jan Gorodkin, UCPH</div>
     </a>
     <a href="mailto:nadezhda.doncheva@sund.ku.dk">
-        <img alt="Nadezhda T. Doncheva" src="/_pages/about_Nadya-Doncheva.jpg" width="120" hspace="50" />
-        <div class="caption" width="90">Nadezhda T. Doncheva</div>
+        <img alt="Nadezhda T. Doncheva" src="/_pages/about_Nadya-Doncheva.jpg" width="120" />
+        <div class="caption">Nadezhda T. Doncheva, UCPH</div>
     </a>
 </div>

@@ -62,11 +62,11 @@ The goal of the BioGLUE project is to provide a unified Danish infrastructure fo
 
 <div id="images">
     <a href="mailto:gorodkin@sund.ku.dk">
-        <img alt="Jan Gorodkin" src="/_pages/about_Jan-Gorodkin.jpg" width="120" />
+        <img alt="Jan Gorodkin" src="/_pages/about_Jan-Gorodkin.jpg" width="150" />
         <div class="caption">Jan Gorodkin, UCPH</div>
     </a>
     <a href="mailto:nadezhda.doncheva@sund.ku.dk">
-        <img alt="Nadezhda T. Doncheva" src="/_pages/about_Nadya-Doncheva.jpg" width="120" />
+        <img alt="Nadezhda T. Doncheva" src="/_pages/about_Nadya-Doncheva.jpg" width="150" />
         <div class="caption">Nadezhda T. Doncheva, UCPH</div>
     </a>
 </div>

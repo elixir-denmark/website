@@ -44,15 +44,13 @@ feature_row1:
     excerpt: "Aarhus University (AU)"
   - image_path: /_pages/about_SC_Troels-T-Rasmussen.jpg
     alt: "Troels Tvedegaard Rasmussen"
-    title: "Troels Tvedegaard Rasmussen"
-    excerpt: "National Genome Center (NGC)"
+    excerpt: "Troels Tvedegaard Rasmussen (NGC)"
   - image_path: /_pages/about_SC_Veit_Schwammle.jpg
     alt: "Veit Stefan Schwämmle"
-    title: "Veit Stefan Schwämmle"
-    excerpt: "University of Southern Denmark (SDU)"
+    excerpt: "Veit Stefan Schwämmle (SDU)"
 ---
 
-ELIXIR Denmark is a member of [ELIXIR](https://elixir-europe.org/), an intergovernmental organisation that coordinates, integrates and sustains bioinformatics resources across its member states and enables users in academia and industry to access vital data, tools, standards, compute and training services for their research. ELIXIR Denmark is established in a partnership between six Danish Universities and institutes, represented by the members of the [steering committee](/about/#steering-committee). 
+ELIXIR Denmark is a member of [ELIXIR](https://elixir-europe.org/), an intergovernmental organisation that coordinates, integrates and sustains bioinformatics resources across its member states and enables users in academia and industry to access vital data, tools, standards, compute and training services for their research. ELIXIR Denmark is established in a partnership between six Danish Universities and institutes: University of Copenhagen (UCPH), University of Southern Denmark (SDU), Aarhus University (AU), Aalborg University (AAU), Statens Serum Institut (SSI), and National Genome Center (NGC). They are represented by the members of the [steering committee](/about/#steering-committee). 
 
 ## Leadership
 

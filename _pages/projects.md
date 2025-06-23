@@ -25,10 +25,9 @@ feature_row2:
 
 ---
 
-## ELIXIR Tools and Data Services Registry
+## bio.tools
 
-The Registry serves as a gateway to databases and tools for Life Science. It was designed with focus on both
-discovery and integration of life science resources and a flexible web interface as well as programmatic access.
+The ELIXIR Tools and Data Services Registry serves as a gateway to databases and tools for Life Science. It was designed with focus on both discovery and integration of life science resources and a flexible web interface as well as programmatic access.
 
 Use the [bio.tools portal](https://bio.tools/) to search for, and/or register resources in the Registry.
 
@@ -52,7 +51,7 @@ View a bio.tools example: [SignalP](https://bio.tools/signalp) or [STRING](https
     </a>
 </div>
 
-## BioGLUE Unified Danish ELIXIRT infrastructure 
+## BioGLUE 
 
 Nowadays, biological data originates from many different experimental techniques and analytical platforms, each contributing in a unique way to the complex landscape of biomedical science. The resulting, new and valuable, data often comes in formats that are incompatible or difficult to integrate with existing software tools, thus making it nearly impossible to connect to current knowledge and gain new insights. This heterogeneity of data formats and standards results in laborious manual processing, which is both time consuming and prone to errors. It does not only distract bioinformaticians from focusing on the actual data analysis and interpretation but can be a big hurdle for researchers without bioinformatics skills.  
 

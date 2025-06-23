@@ -19,41 +19,41 @@ feature_row:
     excerpt: "Former Node Coordinator, University of Copenhagen (UCPH)"
 feature_row1:
   - image_path: /_pages/about_SC_Allan-Stensballe.jpg
-  	image_size: 100
+  	image_size: "100px"
     alt: "Allan Stensballe"
     title: "Allan Stensballe"
     excerpt: "Aalborg University (AAU)"
   - image_path: /_pages/about_SC_Anders-Krogh.jpg
-    image_size: 100
+    image_size: "100px"
     alt: "Anders Krogh"
     title: "Anders Krogh"
     excerpt: "University of Copenhagen (UCPH)"
   - image_path: /_pages/about_SC_Bart_Wilkowski.jpg
-    image_size: 100
+    image_size: "100px"
     alt: "Bartlomiej Wilkowski"
     title: "Bartlomiej Wilkowski"
     excerpt: "Statens Serum Institut (SSI)"
   - image_path: /_pages/about_Jan-Gorodkin.jpg
-    image_size: 100
+    image_size: "100px"
     alt: "Jan Gorodkin"
     title: "Jan Gorodkin"
     excerpt: "University of Copenhagen (UCPH)"
   - image_path: /_pages/about_SC_Mikkel_Heide_Schierup.jpg
-    image_size: 100
+    image_size: "100px"
     alt: "Mikkel Heide Schierup "
     title: "Mikkel Heide Schierup"
     excerpt: "Aarhus University (AU)"
   - image_path: /_pages/about_SC_Peter-Soerensen.jpg
-    image_size: 100
+    image_size: "100px"
     alt: "Peter Sørensen"
     title: "Peter Sørensen"
     excerpt: "Aarhus University (AU)"
   - image_path: /_pages/about_SC_Troels-T-Rasmussen.jpg
-    image_size: 100
+    image_size: "100px"
     alt: "Troels Tvedegaard Rasmussen"
     excerpt: "Troels Tvedegaard Rasmussen (NGC)"
   - image_path: /_pages/about_SC_Veit_Schwammle.jpg
-    image_size: 100
+    image_size: "100px"
     alt: "Veit Stefan Schwämmle"
     excerpt: "Veit Stefan Schwämmle (SDU)"
 ---

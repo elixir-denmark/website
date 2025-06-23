@@ -63,11 +63,11 @@ ELIXIR Denmark is a member of [ELIXIR](https://elixir-europe.org/), an intergove
         <div class="caption" width="90">Head of Node</div>
     </a>
     <a href="">
-        <img alt="Betina Wingreen Jensen" src="/_pages/about_Betina-W-Jensen.JPG" width="120" hspace="50" />
+        <img alt="Betina Wingreen Jensen" src="/_pages/about_Betina-W-Jensen.jpg" width="120" hspace="50" />
         <div class="caption" width="90">Current Node Coordinator</div>
     </a>
     <a href="">
-        <img alt="Kathrine Richter" src="/_pages/about_Kathrine_Richter.JPG" width="120" hspace="50" />
+        <img alt="Kathrine Richter" src="/_pages/about_Kathrine_Richter.jpg" width="120" hspace="50" />
         <div class="caption" width="90">Former Node Coordinator</div>
     </a>
 </div>

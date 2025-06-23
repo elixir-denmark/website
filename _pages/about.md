@@ -19,7 +19,7 @@ feature_row:
     excerpt: "Former Node Coordinator, University of Copenhagen (UCPH)"
 feature_row1:
   - image_path: /_pages/about_SC_Allan-Stensballe.jpg
-  	image_size: "100px"
+    image_size: "100px"
     alt: "Allan Stensballe"
     title: "Allan Stensballe"
     excerpt: "Aalborg University (AAU)"

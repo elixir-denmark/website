@@ -9,7 +9,7 @@ feature_row:
     alt: "Jan Gorodkin"
     title: "Jan Gorodkin"
     excerpt: "Head of Node, University of Copenhagen (UCPH)"
-  - image_path: /_pages/about_Betina-W-Jensen2.jpg
+  - image_path: /_pages/about_Betina-W-Jensen2.JPG
     alt: "Betina Wingreen Jensen"
     title: "Betina Wingreen Jensen"
     excerpt: "Current Node Coordinator, University of Copenhagen (UCPH)"

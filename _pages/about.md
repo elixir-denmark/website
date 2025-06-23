@@ -14,15 +14,15 @@ ELIXIR Denmark is a member of [ELIXIR](https://elixir-europe.org/), an intergove
 <div id="images">
     <a href="">
         <img alt="Jan Gorodkin" src="/_pages/about_Jan-Gorodkin.jpg" width="120" />
-        <div class="caption" width="90">Jan Gorodkin, Head of Node (UCPH)</div>
+        <div class="caption" width="150">Jan Gorodkin, Head of Node (UCPH)</div>
     </a>
     <a href="">
         <img alt="Betina Wingreen Jensen" src="/_pages/about_Betina-W-Jensen.jpg" width="120" />
-        <div class="caption" width="90">Betina Wingreen Jensen, Current Node Coordinator (UCPH)</div>
+        <div class="caption" width="150">Betina Wingreen Jensen, Current Node Coordinator (UCPH)</div>
     </a>
     <a href="">
         <img alt="Kathrine Richter" src="/_pages/about_Kathrine_Richter.jpg" width="120" />
-        <div class="caption" width="90">Kathrine Richter, Former Node Coordinator (UCPH)</div>
+        <div class="caption" width="150">Kathrine Richter, Former Node Coordinator (UCPH)</div>
     </a>
 </div>
 
@@ -31,35 +31,35 @@ ELIXIR Denmark is a member of [ELIXIR](https://elixir-europe.org/), an intergove
 <div id="images">
     <a href="">
         <img alt="Allan Stensballe" src="/_pages/about_SC_Allan-Stensballe.jpg" width="120" />
-        <div class="caption" width="90">Allan Stensballe (AAU)</div>
+        <div class="caption" width="150">Allan Stensballe (AAU)</div>
     </a>
     <a href="">
         <img alt="Anders Krogh" src="/_pages/about_SC_Anders-Krogh.jpg" width="120" />
-        <div class="caption" width="90">Anders Krogh (UCPH)</div>
+        <div class="caption" width="150">Anders Krogh (UCPH)</div>
     </a>
     <a href="">
         <img alt="Bartlomiej Wilkowski" src="/_pages/about_SC_Bart_Wilkowski.jpg" width="120" />
-        <div class="caption" width="90">Bartlomiej Wilkowski (SSI)</div>
+        <div class="caption" width="150">Bartlomiej Wilkowski (SSI)</div>
     </a>
     <a href="">
         <img alt="Jan Gorodkin" src="/_pages/about_Jan-Gorodkin.jpg" width="120" />
-        <div class="caption" width="90">Jan Gorodkin (UCPH)</div>
+        <div class="caption" width="150">Jan Gorodkin (UCPH)</div>
     </a>
     <a href="">
         <img alt="Mikkel Heide Schierup" src="/_pages/about_SC_Mikkel_Heide_Schierup.jpg" width="120"  />
-        <div class="caption" width="90">Mikkel Heide Schierup (AU)</div>
+        <div class="caption" width="150">Mikkel Heide Schierup (AU)</div>
     </a>
     <a href="">
         <img alt="Peter Sørensen" src="/_pages/about_SC_Peter-Soerensen.jpg" width="120" />
-        <div class="caption" width="90">Peter Sørensen (AU)</div>
+        <div class="caption" width="150">Peter Sørensen (AU)</div>
     </a>
     <a href="">
         <img alt="Troels Tvedegaard Rasmussen" src="/_pages/about_SC_Troels-T-Rasmussen.jpg" width="120" />
-        <div class="caption" width="90">Troels Tvedegaard Rasmussen (NGC)</div>
+        <div class="caption" width="150">Troels Tvedegaard Rasmussen (NGC)</div>
     </a>
     <a href="">
         <img alt="Veit Stefan Schwämmle" src="/_pages/about_SC_Veit_Schwammle.jpg" width="120" />
-        <div class="caption" width="90">Veit Stefan Schwämmle (SDU)</div>
+        <div class="caption" width="150">Veit Stefan Schwämmle (SDU)</div>
     </a>
 </div>
 

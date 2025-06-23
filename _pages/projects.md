@@ -47,7 +47,7 @@ View a bio.tools example: [SignalP](https://bio.tools/signalp) or [STRING](https
 <div id="images">
     <a href="mailto:veits@bmb.sdu.dk">
         <img alt="Veit Stefan Schwämmle" src="/_pages/about_SC_Veit_Schwammle.jpg" width="150" />
-        <div class="caption" width="90">Veit Stefan Schwämmle, SDU</div>
+        <div class="caption">Veit Stefan Schwämmle, SDU</div>
     </a>
 </div>
 

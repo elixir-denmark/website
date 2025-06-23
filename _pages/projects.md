@@ -14,7 +14,7 @@ feature_row:
     title: "Nadezhda T. Doncheva"
     excerpt: "University of Copenhagen (UCPH)"
 feature_row2:
-  - image_path: /_pages/about_SC_Veit_Schwammle2.jpg
+  - image_path: /_pages/about_SC_Veit_Schwammle.jpg
     alt: "Veit Stefan Schwämmle"
     title: "Veit Stefan Schwämmle"
     excerpt: "University of Southern Denmark (SDU)"
@@ -45,7 +45,12 @@ View a bio.tools example: [SignalP](https://bio.tools/signalp) or [STRING](https
 
 ### Contact names
 
-{% include feature_row id="feature_row2" %}
+<div id="images">
+    <a href="">
+        <img alt="Veit Stefan Schwämmle" src="/_pages/about_SC_Veit_Schwammle.jpg" width="120" hspace="50" />
+        <div class="caption" width="90">Veit Stefan Schwämmle</div>
+    </a>
+</div>
 
 ## BioGLUE Unified Danish ELIXIRT infrastructure 
 
@@ -55,4 +60,13 @@ The goal of the BioGLUE project is to provide a unified Danish infrastructure fo
 
 ### Contact names
 
-{% include feature_row %}
+<div id="images">
+    <a href="">
+        <img alt="Jan Gorodkin" src="/_pages/about_Jan-Gorodkin.jpg" width="120" hspace="50" />
+        <div class="caption" width="90">Jan Gorodkin</div>
+    </a>
+    <a href="">
+        <img alt="Nadezhda T. Doncheva" src="/_pages/about_Nadya-Doncheva.jpg.jpg" width="120" hspace="50" />
+        <div class="caption" width="90">Nadezhda T. Doncheva</div>
+    </a>
+</div>

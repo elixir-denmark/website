@@ -56,7 +56,6 @@ ELIXIR Denmark is a member of [ELIXIR](https://elixir-europe.org/), an intergove
 
 ## Leadership
 
-
 <div id="images">
     <a href="">
         <img alt="Jan Gorodkin" src="/_pages/about_Jan-Gorodkin.jpg" width="120" hspace="50" />

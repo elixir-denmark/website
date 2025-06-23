@@ -59,19 +59,51 @@ ELIXIR Denmark is a member of [ELIXIR](https://elixir-europe.org/), an intergove
 <div id="images">
     <a href="">
         <img alt="Jan Gorodkin" src="/_pages/about_Jan-Gorodkin.jpg" width="120" hspace="50" />
-        <div class="caption" width="90">Head of Node (UCPH)</div>
+        <div class="caption" width="90">Jan Gorodkin, Head of Node (UCPH)</div>
     </a>
     <a href="">
         <img alt="Betina Wingreen Jensen" src="/_pages/about_Betina-W-Jensen.jpg" width="120" hspace="50" />
-        <div class="caption" width="90">Current Node Coordinator (UCPH)</div>
+        <div class="caption" width="90">Betina Wingreen Jensen, Current Node Coordinator (UCPH)</div>
     </a>
     <a href="">
         <img alt="Kathrine Richter" src="/_pages/about_Kathrine_Richter.jpg" width="120" hspace="50" />
-        <div class="caption" width="90">Former Node Coordinator (UCPH)</div>
+        <div class="caption" width="90">Kathrine Richter, Former Node Coordinator (UCPH)</div>
     </a>
 </div>
 
 ## Steering Committee
 
-{% include feature_row id="feature_row1" %}
-
+<div id="images">
+    <a href="">
+        <img alt="Jan Gorodkin" src="/_pages/about_SC_Allan-Stensballe.jpg" width="120" hspace="50" />
+        <div class="caption" width="90">Allan Stensballe (AAU)</div>
+    </a>
+    <a href="">
+        <img alt="Betina Wingreen Jensen" src="/_pages/about_SC_Anders-Krogh.jpg" width="120" hspace="50" />
+        <div class="caption" width="90">Anders Krogh (UCPH)</div>
+    </a>
+    <a href="">
+        <img alt="Kathrine Richter" src="/_pages/about_SC_Bart_Wilkowski.jpg" width="120" hspace="50" />
+        <div class="caption" width="90">Bartlomiej Wilkowski (SSI)</div>
+    </a>
+    <a href="">
+        <img alt="Kathrine Richter" src="/_pages/about_Jan-Gorodkin.jpg.jpg" width="120" hspace="50" />
+        <div class="caption" width="90">Jan Gorodkin (UCPH)</div>
+    </a>
+    <a href="">
+        <img alt="Kathrine Richter" src="/_pages/about_SC_Mikkel_Heide_Schierup.jpg" width="120" hspace="50" />
+        <div class="caption" width="90">Mikkel Heide Schierup (AU)</div>
+    </a>
+    <a href="">
+        <img alt="Kathrine Richter" src="/_pages/about_SC_Peter-Soerensen.jpg" width="120" hspace="50" />
+        <div class="caption" width="90">Peter Sørensen (AU)</div>
+    </a>
+    <a href="">
+        <img alt="Kathrine Richter" src="/_pages/about_SC_Veit_Schwammle.jpg" width="120" hspace="50" />
+        <div class="caption" width="90">Troels Tvedegaard Rasmussen (NGC)</div>
+    </a>
+    <a href="">
+        <img alt="Kathrine Richter" src="/_pages/about_SC_Veit_Schwammle.jpg" width="120" hspace="50" />
+        <div class="caption" width="90">Veit Stefan Schwämmle (SDU)</div>
+    </a>
+</div>

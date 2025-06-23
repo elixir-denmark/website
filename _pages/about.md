@@ -19,33 +19,41 @@ feature_row:
     excerpt: "Former Node Coordinator, University of Copenhagen (UCPH)"
 feature_row1:
   - image_path: /_pages/about_SC_Allan-Stensballe.jpg
+  	image_size: 100
     alt: "Allan Stensballe"
     title: "Allan Stensballe"
     excerpt: "Aalborg University (AAU)"
   - image_path: /_pages/about_SC_Anders-Krogh.jpg
+    image_size: 100
     alt: "Anders Krogh"
     title: "Anders Krogh"
     excerpt: "University of Copenhagen (UCPH)"
   - image_path: /_pages/about_SC_Bart_Wilkowski.jpg
+    image_size: 100
     alt: "Bartlomiej Wilkowski"
     title: "Bartlomiej Wilkowski"
     excerpt: "Statens Serum Institut (SSI)"
   - image_path: /_pages/about_Jan-Gorodkin.jpg
+    image_size: 100
     alt: "Jan Gorodkin"
     title: "Jan Gorodkin"
     excerpt: "University of Copenhagen (UCPH)"
   - image_path: /_pages/about_SC_Mikkel_Heide_Schierup.jpg
+    image_size: 100
     alt: "Mikkel Heide Schierup "
     title: "Mikkel Heide Schierup"
     excerpt: "Aarhus University (AU)"
   - image_path: /_pages/about_SC_Peter-Soerensen.jpg
+    image_size: 100
     alt: "Peter Sørensen"
     title: "Peter Sørensen"
     excerpt: "Aarhus University (AU)"
   - image_path: /_pages/about_SC_Troels-T-Rasmussen.jpg
+    image_size: 100
     alt: "Troels Tvedegaard Rasmussen"
     excerpt: "Troels Tvedegaard Rasmussen (NGC)"
   - image_path: /_pages/about_SC_Veit_Schwammle.jpg
+    image_size: 100
     alt: "Veit Stefan Schwämmle"
     excerpt: "Veit Stefan Schwämmle (SDU)"
 ---
@@ -57,15 +65,15 @@ ELIXIR Denmark is a member of [ELIXIR](https://elixir-europe.org/), an intergove
 <div id="images">
     <a href="">
         <img alt="Jan Gorodkin" src="/_pages/about_Jan-Gorodkin.jpg" width="120" hspace="50" />
-        <div class="caption" width="90">Head of Node</div>
+        <div class="caption" width="90">Head of Node, UCPH</div>
     </a>
     <a href="">
         <img alt="Betina Wingreen Jensen" src="/_pages/about_Betina-W-Jensen.jpg" width="120" hspace="50" />
-        <div class="caption" width="90">Current Node Coordinator</div>
+        <div class="caption" width="90">Current Node Coordinator, UCPH</div>
     </a>
     <a href="">
         <img alt="Kathrine Richter" src="/_pages/about_Kathrine_Richter.jpg" width="120" hspace="50" />
-        <div class="caption" width="90">Former Node Coordinator</div>
+        <div class="caption" width="90">Former Node Coordinator, UCPH</div>
     </a>
 </div>
 

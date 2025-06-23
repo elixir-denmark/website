@@ -9,7 +9,7 @@ feature_row:
     alt: "Jan Gorodkin"
     title: "Jan Gorodkin"
     excerpt: "Head of Node, University of Copenhagen (UCPH)"
-  - image_path: /_pages/about_Betina-W-Jensen2.JPG
+  - image_path: /_pages/about_Betina-W-Jensen.JPG
     alt: "Betina Wingreen Jensen"
     title: "Betina Wingreen Jensen"
     excerpt: "Current Node Coordinator, University of Copenhagen (UCPH)"
@@ -33,20 +33,20 @@ feature_row1:
   - image_path: /_pages/about_Jan-Gorodkin.jpg
     alt: "Jan Gorodkin"
     title: "Jan Gorodkin"
-    excerpt: "Head of Node, University of Copenhagen (UCPH)"
-  - image_path: /_pages/about_SC_Mikkel_Heide_Schierup2.jpg
+    excerpt: "University of Copenhagen (UCPH)"
+  - image_path: /_pages/about_SC_Mikkel_Heide_Schierup.jpg
     alt: "Mikkel Heide Schierup "
     title: "Mikkel Heide Schierup"
     excerpt: "Aarhus University (AU)"
-  - image_path: /_pages/about_SC_Peter-Soerensen2.jpg
+  - image_path: /_pages/about_SC_Peter-Soerensen.jpg
     alt: "Peter Sørensen"
     title: "Peter Sørensen"
     excerpt: "Aarhus University (AU)"
-  - image_path: /_pages/about_SC_Troels-T-Rasmussen2.jpg
+  - image_path: /_pages/about_SC_Troels-T-Rasmussen.jpg
     alt: "Troels Tvedegaard Rasmussen"
     title: "Troels Tvedegaard Rasmussen"
     excerpt: "National Genome Center (NGC)"
-  - image_path: /_pages/about_SC_Veit_Schwammle2.jpg
+  - image_path: /_pages/about_SC_Veit_Schwammle.jpg
     alt: "Veit Stefan Schwämmle"
     title: "Veit Stefan Schwämmle"
     excerpt: "University of Southern Denmark (SDU)"
@@ -59,12 +59,12 @@ ELIXIR Denmark is a member of [ELIXIR](https://elixir-europe.org/), an intergove
 
 <div id="images">
     <a href="">
-        <img alt="Jan Gorodkin" src="/_pages/about_Jan-Gorodkin.jpg" width="100" hspace="50" />
-        <div class="caption" width="90">Head of Node</div>
+        <img alt="Jan Gorodkin" src="/_pages/about_Jan-Gorodkin.jpg" width="120" hspace="50" />
+        <div class="caption" width="90">Head of Node</br> University of Copenhagen (UCPH)</div>
     </a>
     <a href="">
-        <img alt="Betina Wingreen Jensen" src="/_pages/about_Betina-W-Jensen2.JPG" width="100" hspace="50" />
-        <div class="caption" width="90">Current Node Coordinator</div>
+        <img alt="Betina Wingreen Jensen" src="/_pages/about_Betina-W-Jensen2.JPG" width="120" hspace="50" />
+        <div class="caption" width="90">Current Node Coordinator </br> University of Copenhagen (UCPH)</div>
     </a>
 </div>
 

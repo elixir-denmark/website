@@ -5,25 +5,23 @@ permalink: /projects/
 sidebar:
   nav: "projects"
 feature_row:
-  - image_path: /_pages/about_Jan-Gorodkin.jpg
-    alt: "Jan Gorodkin"
-    title: "Jan Gorodkin"
-    excerpt: "University of Copenhagen (UCPH)"
-  - image_path: /_pages/about_Nadya-Doncheva.jpg
-    alt: "Nadezhda T. Doncheva"
-    title: "Nadezhda T. Doncheva"
-    excerpt: "University of Copenhagen (UCPH)"
-feature_row2:
-  - image_path: /_pages/about_SC_Veit_Schwammle.jpg
-    alt: "Veit Stefan Schwämmle"
-    title: "Veit Stefan Schwämmle"
-    excerpt: "University of Southern Denmark (SDU)"
-  - image_path: 
-    alt: 
-    title: 
-    excerpt: 
-
+  - image_path: /_pages/biotools.png
+    alt: "bio.tools overview"
+    title: "bio.tools"
+    excerpt: "ELIXIR Tools and Data Services Registry"
+    url: "#biotools"
+    btn_label: "Read More"
+    btn_class: "btn--primary"  
+  - image_path: /_pages/bioglue.png
+    alt: "BioGLUE overview"
+    title: "BioGLUE"
+    excerpt: "Unified Danish ELIXIR infrastructure for seamless data and tool interoperability"
+    url: "#bioglue"
+    btn_label: "Read More"
+    btn_class: "btn--primary"  
 ---
+
+{% include feature_row %}
 
 ## bio.tools
 
@@ -53,9 +51,9 @@ View a bio.tools example: [SignalP](https://bio.tools/signalp) or [STRING](https
 
 ## BioGLUE 
 
-Nowadays, biological data originates from many different experimental techniques and analytical platforms, each contributing in a unique way to the complex landscape of biomedical science. The resulting, new and valuable, data often comes in formats that are incompatible or difficult to integrate with existing software tools, thus making it nearly impossible to connect to current knowledge and gain new insights. This heterogeneity of data formats and standards results in laborious manual processing, which is both time consuming and prone to errors. It does not only distract bioinformaticians from focusing on the actual data analysis and interpretation but can be a big hurdle for researchers without bioinformatics skills.  
+Nowadays, biological data originates from many different experimental techniques and analytical platforms, each contributing in a unique way to the complex landscape of biomedical science. The resulting, new and valuable, data often comes in formats that are incompatible or difficult to integrate with existing software tools or connect to current knowledge. The heterogeneity of data formats and standards results in laborious manual processing, which is both time consuming and prone to errors. This does not only distract bioinformaticians from focusing on the actual data analysis and interpretation, but can be a big hurdle for researchers without bioinformatics skills and stop them from gaining new insights.  
 
-The goal of the BioGLUE project is to provide a unified Danish infrastructure for seamless data and tool interoperability. The project will align with the European ELIXIR Infrastructure and enable fully functional data analysis workflows for a wide range of researchers, both nationally and internationally. This will be accomplished with the help of large language models, which can be utilized for automated data conversion and integration, or least to facilitate the harmonization of data from different sources. Use cases will include data for non-coding RNA and CRISPR gene editing, which presents the challenge of combining RNA structures with high-throughput RNA structure probing. Further work will involve the integration with genomics, transcriptomics, proteomics, and metagenomics data. 
+The goal of the BioGLUE project is to provide a unified Danish infrastructure for seamless data and tool interoperability. The project will align with the European ELIXIR Infrastructure and enable fully functional data analysis workflows for a wide range of researchers, both nationally and internationally. This will be accomplished with the help of large language models, which can be utilized for automated data conversion and integration, or least to facilitate the harmonization of data from different sources. The project will include diverse use cases representing activities in Danish bioinformatics, ensuring versatility. By building upon the ELIXIR infrastructure and utilizing the extensive tools registry already in place, BioGLUE seeks to enhance the construction of bioinformatics workflows. The ultimate goal is to make this process more efficient, reproducible, and scalable, thereby advancing research in the life sciences.
 
 ### Contact
 

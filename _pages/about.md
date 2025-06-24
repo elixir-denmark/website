@@ -12,15 +12,15 @@ ELIXIR Denmark is a member of [ELIXIR](https://elixir-europe.org/), an intergove
 ## Leadership
 
 <div id="images">
-    <a href="">
+    <a href="https://ivh.ku.dk/ansatte/?pure=da/persons/35979">
         <img alt="Jan Gorodkin" src="/_pages/about_Jan-Gorodkin.jpg" width="120" />
         <div class="caption" width="170">Jan Gorodkin, Head of Node (UCPH)</div>
     </a>
-    <a href="">
+    <a href="https://research.ku.dk/search/result/profile/?id=444148">
         <img alt="Betina Wingreen Jensen" src="/_pages/about_Betina-W-Jensen.jpg" width="120" />
         <div class="caption" width="170">Betina Wingreen Jensen, Node Coordinator (UCPH)</div>
     </a>
-    <a href="">
+    <a href="https://www.cpr.ku.dk/staff/?id=221277&vis=medarbejder">
         <img alt="Kathrine Richter" src="/_pages/about_Kathrine_Richter.jpg" width="120" />
         <div class="caption" width="170">Kathrine Richter, Former Node Coordinator (UCPH)</div>
     </a>

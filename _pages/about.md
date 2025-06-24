@@ -18,7 +18,7 @@ ELIXIR Denmark is a member of [ELIXIR](https://elixir-europe.org/), an intergove
     </a>
     <a href="">
         <img alt="Betina Wingreen Jensen" src="/_pages/about_Betina-W-Jensen.jpg" width="120" />
-        <div class="caption" width="170">Betina Wingreen Jensen, Current Node Coordinator (UCPH)</div>
+        <div class="caption" width="170">Betina Wingreen Jensen, Node Coordinator (UCPH)</div>
     </a>
     <a href="">
         <img alt="Kathrine Richter" src="/_pages/about_Kathrine_Richter.jpg" width="120" />

@@ -1,6 +1,7 @@
 ---
 title: ELIXIR Denmark Projects
 layout: single
+classes: wide
 permalink: /projects/
 sidebar:
   nav: "projects"
@@ -9,14 +10,14 @@ feature_row:
     alt: "bio.tools overview"
     title: "bio.tools"
     excerpt: "ELIXIR Tools and Data Services Registry"
-    url: "#biotools"
+    url: "/projects/#biotools"
     btn_label: "Read More"
     btn_class: "btn--primary"  
   - image_path: /_pages/bioglue.png
     alt: "BioGLUE overview"
     title: "BioGLUE"
     excerpt: "Unified Danish ELIXIR infrastructure for seamless data and tool interoperability"
-    url: "#bioglue"
+    url: "/projects/#bioglue"
     btn_label: "Read More"
     btn_class: "btn--primary"  
 ---

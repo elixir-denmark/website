@@ -1,6 +1,7 @@
 ---
 title: Events
 layout: single
+classes: wide
 permalink: /events/
 ---
 ## Upcoming events

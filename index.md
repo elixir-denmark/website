@@ -1,6 +1,7 @@
 ---
 title: ELIXIR Denmark
 layout: single
+classes: wide
 permalink: /
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: Training
 layout: single
+classes: wide
 permalink: /training/
 ---
 <!-- We can add: health data sandbox, bioinformatics and data science study programmes, online teachine (in TESS?)-->

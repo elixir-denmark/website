@@ -10,11 +10,12 @@ permalink: /events/
 9th Danish Bioinformatics Conference
 
 [Conference website](https://eventsignup.ku.dk/9danishbioinfconference)  
-[Contact the organizers via email](mailto:as@hst.aau.dk)  
 
 | ![Conference flyer]({{ site.baseurl }}/assets/images/Poster2025_SaveTheDate_140225.png) |
 |:-:|
 | *Conference flyer (14 Feb 2025)* |  
+
+[Contact the organizers via email](mailto:as@hst.aau.dk)  
 
 ## Past events
 

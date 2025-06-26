@@ -10,14 +10,14 @@ main:
   - title: "Training"
     url: /training/
 
-about: 
-  - title: "Leadership"
-    url: /about/#leadership
+people: 
+  - title: "Team"
+    url: /people/#team
   - title: "Steering Committee"
-    url: /about/#steering-committee
+    url: /people/#steering-committee
 
-projects:
+services:
   - title: "bio.tools"
-    url: /projects/#biotools
+    url: /services/#biotools
   - title: "BioGLUE"
-    url: /projects/#bioglue
+    url: /services/#bioglue

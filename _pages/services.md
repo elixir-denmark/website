@@ -1,23 +1,23 @@
 ---
-title: ELIXIR Denmark Projects
+title: ELIXIR Denmark Services
 layout: single
 classes: wide
-permalink: /projects/
+permalink: /services/
 sidebar:
-  nav: "projects"
+  nav: "services"
 feature_row:
   - image_path: /_pages/biotools.png
     alt: "bio.tools overview"
     title: "bio.tools"
     excerpt: "ELIXIR Tools and Data Services Registry"
-    url: "/projects/#biotools"
+    url: "/services/#biotools"
     btn_label: "Read More"
     btn_class: "btn--primary"  
   - image_path: /_pages/bioglue.png
     alt: "BioGLUE overview"
     title: "BioGLUE"
     excerpt: "Unified Danish ELIXIR infrastructure for seamless data and tool interoperability"
-    url: "/projects/#bioglue"
+    url: "/services/#bioglue"
     btn_label: "Read More"
     btn_class: "btn--primary"  
 ---
@@ -41,14 +41,6 @@ View a bio.tools example: [SignalP](https://bio.tools/signalp) or [STRING](https
 <!--[Registry workflow](biotools_workflow.png)-->
 ![Overview]({{ site.baseurl }}/assets/images/biotools_overview.png)
 
-### Contact
-
-<div id="images">
-    <a href="mailto:veits@bmb.sdu.dk">
-        <img alt="Veit Stefan Schwämmle" src="/_pages/about_SC_Veit_Schwammle.jpg" width="150" />
-        <div class="caption">Veit Stefan Schwämmle, SDU</div>
-    </a>
-</div>
 
 ## BioGLUE 
 
@@ -56,15 +48,3 @@ Nowadays, biological data originates from many different experimental techniques
 
 The goal of the BioGLUE project is to provide a unified Danish infrastructure for seamless data and tool interoperability. The project will align with the European ELIXIR Infrastructure and enable fully functional data analysis workflows for a wide range of researchers, both nationally and internationally. This will be accomplished with the help of large language models, which can be utilized for automated data conversion and integration, or least to facilitate the harmonization of data from different sources. The project will include diverse use cases representing activities in Danish bioinformatics, ensuring versatility. By building upon the ELIXIR infrastructure and utilizing the extensive tools registry already in place, BioGLUE seeks to enhance the construction of bioinformatics workflows. The ultimate goal is to make this process more efficient, reproducible, and scalable, thereby advancing research in the life sciences.
 
-### Contact
-
-<div id="images">
-    <a href="mailto:gorodkin@sund.ku.dk">
-        <img alt="Jan Gorodkin" src="/_pages/about_Jan-Gorodkin.jpg" width="150" />
-        <div class="caption">Jan Gorodkin, UCPH</div>
-    </a>
-    <a href="mailto:nadezhda.doncheva@sund.ku.dk">
-        <img alt="Nadezhda T. Doncheva" src="/_pages/about_Nadya-Doncheva.jpg" width="150" />
-        <div class="caption">Nadezhda T. Doncheva, UCPH</div>
-    </a>
-</div>

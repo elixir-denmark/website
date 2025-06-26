@@ -9,7 +9,7 @@ feature_row:
   - image_path: /_pages/biotools.png
     alt: "bio.tools overview"
     title: "bio.tools"
-    excerpt: "ELIXIR Tools and Data Services Registry"
+    excerpt: "ELIXIR Tools and Data Services Registry for bioinformatics and the life sciences"
     url: "/services/#biotools"
     btn_label: "Read More"
     btn_class: "btn--primary"  

@@ -29,8 +29,8 @@ ELIXIR Denmark is established in a partnership between six Danish Universities a
         <div class="caption" width="170">Veit Stefan Schwämmle, Project Coordinator (SDU)</div>
     </a>
     <a href="https://researchprofiles.ku.dk/en/persons/nadezhda-t-doncheva">
-        <img alt="Nadezhda T. Doncheva" src="/_pages/people_Nadya-Doncheva.jpg" width="150" />
-        <div class="caption">Nadezhda T. Doncheva, Data Scientist (UCPH)</div>
+        <img alt="Nadezhda T. Doncheva" src="/_pages/people_Nadya-Doncheva.jpg" width="120" />
+        <div class="caption" width="170">Nadezhda T. Doncheva, Data Scientist (UCPH)</div>
     </a>
 </div>
 
@@ -50,7 +50,7 @@ ELIXIR Denmark is established in a partnership between six Danish Universities a
         <div class="caption" width="170">Bartlomiej Wilkowski (SSI)</div>
     </a>
     <a href="https://ivh.ku.dk/ansatte/?pure=da/persons/35979">
-        <img alt="Jan Gorodkin" src="/_pages/Jan-Gorodkin.jpg" width="120" />
+        <img alt="Jan Gorodkin" src="/_pages/people_Jan-Gorodkin.jpg" width="120" />
         <div class="caption" width="170">Jan Gorodkin (UCPH)</div>
     </a>
     <a href="https://pure.au.dk/portal/da/persons/mheide%40birc.au.dk/?sort=forfatter&visalle=">

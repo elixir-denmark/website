@@ -1,12 +1,12 @@
 main:
   - title: "Home"
     url: /
+  - title: "People"
+    url: /people/
   - title: "bio.tools"
     url: /biotools/
   - title: "Events"
     url: /events/
-  - title: "Organisation"
-    url: /organisation/
   - title: "Training"
     url: /training/
 

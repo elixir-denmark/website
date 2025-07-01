@@ -31,7 +31,7 @@ ELIXIR Denmark's newly appointed node coordinator Betina W. Jensen and data scie
 
 ## Head of Node attends the Heads of Nodes Retreat in Prague (13 May 2025)
 
-ELIXIR Denmark Head of Node Jan Gorodkin joins the Heads of Nodes Retreat to discuss the future of ELIXIR.
+Jan Gorodkin represents ELIXIR Denmark as newly appointed Head of Node at the annual Heads of Nodes Retreat to discuss the future of ELIXIR.
 
 <div class="centered-image-title">
   <img alt="Group picture HoN25" src="/assets/images/group_picture_hon_2025_scaled.jpg" />

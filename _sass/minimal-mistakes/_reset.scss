@@ -223,11 +223,9 @@ html[data-useragent*='CyBrowser'] div.cybrowser {
 
 .centered-image-title {
   text-align: center;
-  img {
-    max-width: 70%;
-    height: auto;
-  }
+  max-width: 70%;
+  margin: auto;
   p {
-    font-style: italic
+    font-style: italic;
   }
 }

@@ -4,7 +4,7 @@ kramdown:
   smart_quotes:  ["apos", "apos", "ldquo", "rdquo"]
 
 masthead_title: " "
-logo: /assets/images/ELIXIR_Denmark_logo2.png
+logo: /assets/images/ELIXIR_Denmark_logo.png
 
 plugins:
   - jekyll-include-cache

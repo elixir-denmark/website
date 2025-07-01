@@ -3,10 +3,12 @@ include: ["_pages"]
 kramdown:
   smart_quotes:  ["apos", "apos", "ldquo", "rdquo"]
 
-masthead_title: "ELIXIR Denmark"
+masthead_title: " "
+logo: /assets/images/ELIXIR_Denmark_logo2.png
 
 plugins:
   - jekyll-include-cache
   - jekyll-remote-theme
 
 remote_theme: "mmistakes/minimal-mistakes"
+

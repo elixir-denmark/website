@@ -201,15 +201,33 @@ html[data-useragent*='CyBrowser'] div.cybrowser {
 }
 
 #images{
-    text-align:center;
-    margin:50px auto; 
+  text-align:center;
+  margin:50px auto; 
 }
 
 #images a{
-    margin:10px 10px;
-    display:inline-block;
-    width:240px;
-    white-space: wrap;
-    text-decoration:none;
-    color:black;
+  margin:10px 10px;
+  display:inline-block;
+  width:240px;
+  white-space: wrap;
+  text-decoration:none;
+  color:black;
  }
+
+.site-logo img {
+  min-height: 80px;
+  max-height: 150px;
+  height: auto;
+  width: auto;
+}
+
+.centered-image-title {
+  text-align: center;
+  img {
+    max-width: 70%;
+    height: auto;
+  }
+  p {
+    font-style: italic
+  }
+}

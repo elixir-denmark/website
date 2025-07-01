@@ -5,8 +5,14 @@ classes: wide
 permalink: /news/
 ---
 
-## ELIXIR Denmark's steering group members meet today (30 June 2025)
+## ELIXIR Denmark's steering committee members meet today (30 June 2025)
 
+The ELIXIR steering committee members meet after the BioGLUE project initiated a couple of months ago. They continue to reshape the Danish node seeking to identify novel possibilities for the Danish bioinformatics community.
+
+<div class="centered-image-title">
+  <img alt="Group picture SG" src="/assets/images/group_picture_SG_250630_scaled.jpg" />
+  <p>ELIXIR Denmark steering committee members</p>
+</div>
 
 ## Updated ELIXIR Denmark website launched (30 June 2025)
 
@@ -23,6 +29,6 @@ ELIXIR Denmark's newly appointed node coordinator Betina W. Jensen and data scie
 </div>
 
 
-## Novo Nordisk Foundation awards BioGLUE grant to HoN Jan Gorodkin (XX 2025)
+## Novo Nordisk Foundation awards BioGLUE grant to HoN Jan Gorodkin (20 Sept 2024)
 
-
+The Novo Nordisk Foundation granted the infrastructure project BioGLUE and secured all funds for Denmark's membership in ELIXIR for the coming years. BioGLUE will tackle a common challenge in bioinformatics, the time-consuming task of gluing together different data formats. Instead of manual effort, the aim of BioGLUE is to create a digital infrastructure for automatic, seamless integration of various biological data using large language models.

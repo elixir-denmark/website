@@ -9,6 +9,8 @@ main:
     url: /events/
   - title: "Training"
     url: /training/
+  - title: "News"
+    url: /news/
 
 people: 
   - title: "Team"

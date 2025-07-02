@@ -11,7 +11,7 @@ The [steering committee members](people.md#steering-committee) meet after the Bi
 
 <div class="centered-image-title">
   <img alt="Group picture SG" src="/assets/images/group_picture_SG_250630_scaled.jpg" />
-  <p>ELIXIR Denmark team members. Steering committee members Peter, Allan, Troels, Bart, Jan, and Veit in the back, data scientist Nadya and project coordinator Betina in the front.</p>
+  <p>ELIXIR Denmark team members. Steering committee members Peter, Allan, Troels, Bart, Jan, and Veit in the back, data scientist Nadya and node coordinator Betina in the front.</p>
 </div>
 
 ## Updated ELIXIR Denmark website launches (30 June 2025)
@@ -21,7 +21,7 @@ The website shows the people involved in ELIXIR Denmark including the head of no
 
 ## ELIXIR Denmark team attends the All Hands Meeting in Thessaloniki (2 June 2025)
 
-ELIXIR Denmark's newly appointed node coordinator Betina W. Jensen and data scientist Nadya T. Doncheva attend the [ELIXIR All Hands Meeting 2025](https://elixir-events.eventscase.com/EN/ahm2025) in Thessaloniki together with Veit Schwämmle and Ana Isabel da Silva Mendes, who are currently actively developing and maintaining [bio.tools](https://bio.tools/). 
+ELIXIR Denmark's newly appointed node coordinator Betina W. Jensen and data scientist Nadya T. Doncheva attended the [ELIXIR All Hands Meeting 2025](https://elixir-events.eventscase.com/EN/ahm2025) in Thessaloniki together with Veit Schwämmle and Ana Isabel da Silva Mendes, who are currently actively developing and maintaining [bio.tools](https://bio.tools/). 
 
 <div class="centered-image-title">
   <img alt="Group picture AHM25" src="/assets/images/group_picture_DK_scaled.jpg" />

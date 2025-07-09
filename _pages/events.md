@@ -10,7 +10,7 @@ permalink: /events/
 
 [Conference website](https://eventsignup.ku.dk/9danishbioinfconference)  
 
-| ![Conference flyer]({{ site.baseurl }}/assets/images/Poster2025_SaveTheDate_140225.png) |
+| ![Conference flyer]({{ site.baseurl }}/assets/images/events/Poster2025_SaveTheDate_140225.png) |
 |:-:|
 | *Conference flyer (14 Feb 2025)* |  
 

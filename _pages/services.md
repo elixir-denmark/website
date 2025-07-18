@@ -48,3 +48,8 @@ Nowadays, biological data originates from many different experimental techniques
 
 The goal of the BioGLUE project is to provide a unified Danish infrastructure for seamless data interoperability. The project will align with the European ELIXIR Infrastructure to enable fully functional data analysis workflows for a wide range of researchers, both nationally and internationally. This will be accomplished with the help of large language models, which can be utilized for automated data conversion and integration, or least to facilitate the harmonization of data from different sources. The project will include diverse use cases representing activities in Danish bioinformatics, ensuring versatility. By building upon the ELIXIR infrastructure and utilizing the extensive tools registry already in place, BioGLUE seeks to enhance the construction of bioinformatics workflows. The ultimate goal is to make this process more efficient, reproducible, and scalable, thereby advancing research in the life sciences.
 
+![Overview of BioGLUE]({{ site.baseurl }}/assets/images/services/bioglue_overview.png)
+
+Overview of BioGLUE’s main use cases and relevant bioinformatics communities and services.
+
+

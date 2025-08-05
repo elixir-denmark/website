@@ -11,7 +11,7 @@ ELIXIR Denmark had a great time at ISMB/ECCB 2025 in Liverpool engaging with col
 
 <div class="centered-image-title">
   <img alt="Nadya poster ISMB25" src="/assets/images/news/ismb25_nadya_poster_v3.jpg" />
-  <p>ELIXIR Denmark lead data scientist Nadya at the ISMB/ECCB 2025 poster session.</p>
+  <p>Lead data scientist Nadya at the ISMB/ECCB 2025 poster session.</p>
 </div>
 
 ## ELIXIR Denmark's steering committee members meet today (30 June 2025)

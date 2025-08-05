@@ -5,6 +5,15 @@ classes: wide
 permalink: /news/
 ---
 
+## ELIXIR Denmark attends ISMB/ECCB 2025 in Liverpool (20-24 July 2025)
+
+ELIXIR Denmark had a great time at ISMB/ECCB 2025 in Liverpool engaging with colleagues and presenting our new BioGLUE project. We look forward to further interactions on the upcoming and exciting projects. 
+
+<div class="centered-image-title">
+  <img alt="Nadya poster ISMB25" src="/assets/images/news/ismb25_nadya_poster_v3.jpg" />
+  <p>ELIXIR Denmark lead data scientist Nadya at the ISMB/ECCB 2025 poster session.</p>
+</div>
+
 ## ELIXIR Denmark's steering committee members meet today (30 June 2025)
 
 The [steering committee members](people.md#steering-committee) meet after the BioGLUE project initiated a couple of months ago. They continue to reshape the Danish node seeking to identify novel possibilities for the Danish bioinformatics community.

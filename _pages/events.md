@@ -12,7 +12,7 @@ permalink: /events/
 
 | ![Conference flyer]({{ site.baseurl }}/assets/images/events/Poster2025_13082025_forPNG.png) |
 |:-:|
-| *Conference flyer (14 Feb 2025)* |  
+| *Conference flyer (19 Aug 2025)* |  
 
 ## Past events
 

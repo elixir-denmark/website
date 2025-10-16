@@ -10,9 +10,9 @@ permalink: /events/
 
 [Conference website](https://eventsignup.ku.dk/9danishbioinfconference)  
 
-| ![Conference flyer]({{ site.baseurl }}/assets/images/events/Poster2025_13082025_forPNG.png) |
+| ![Conference flyer]({{ site.baseurl }}/assets/images/events/Poster2025_01102025_forPNG.png) |
 |:-:|
-| *Conference flyer (19 Aug 2025)* |  
+| *Conference flyer (updated 1 Oct 2025)* |  
 
 ## Past events
 

@@ -5,16 +5,12 @@ permalink: /events/
 ---
 ## Upcoming events
 
+
+
+## Past events 
+
 27--28 October 2025, Aalborg, Denmark  
-9th Danish Bioinformatics Conference
-
-[Conference website](https://eventsignup.ku.dk/9danishbioinfconference)  
-
-| ![Conference flyer]({{ site.baseurl }}/assets/images/events/Poster2025_01102025_forPNG.png) |
-|:-:|
-| *Conference flyer (updated 1 Oct 2025)* |  
-
-## Past events
+9th Danish Bioinformatics Conference [Website](https://eventsignup.ku.dk/9danishbioinfconference)  
 
 21--22 August 2024, Copenhagen, Denmark  
 8th Danish Bioinformatics Conference ([Website](https://eventsignup.ku.dk/8danishbioinfconference/))

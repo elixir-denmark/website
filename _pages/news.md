@@ -5,6 +5,19 @@ classes: wide
 permalink: /news/
 ---
 
+## 9th Annual Danish Bioinformatics Conference in Aalborg (27-28 Oct 2025)
+
+The 9th Annual Danish Bioinformatics Conference held last week in Aalborg was a BIG success with great talks and networking in the Danish bioinformatics community. 125 participants joined in person with another 100 joining online from both national and international institutions in academia and industry. We had outstanding presentations by the four keynote speakers Lingzhao Fang (Aarhus University), Christine Orengo (University College London), Sampo Pyysalo (University of Turku), and Tamas Korcsmaros (Imperial College London) and by Lars Juhl Jensen representing the sponsors ZS Discovery. 
+
+All of this would not have been possible without the core organizers Nadezhda T. Doncheva (KU) and Betina Wingreen Jensen (KU), the program committee Jakob Havgaard (KU), Katerina Nastou (SSI), Morten Nielsen (DTU), Palle Duun Rohde (AAU), Peter Sorensen (AU), Richard Röttger (SDU), Tugce Karaderi (KU), and the organizers Allan Stensballe (ATV) (AAU), Peter Sorensen (AU), Nadezhda T. Doncheva (KU), Betina Wingreen Jensen (KU), Veit Schwämmle (SDU), Jan Gorodkin (KU), and StudenterForskning Aalborg Officiel.
+
+We congratulate the poster prize winners Giorgia Moranzoni (1st), Jacob Thoft Jacobsen (2nd), Foteini Aktypi (3rd) and express special thanks to the sponsors ZS Discovery, DDSA - Danish Data Science Academy, Novo Nordisk, and BioLib!
+
+<div class="centered-image-title">
+  <img alt="DKBiC25" src="/assets/images/news/DKBiC_posters.jpg" />
+  <p>Conference participants and posters during one of the coffee breaks.</p>
+</div>
+
 ## ELIXIR Denmark attends ISMB/ECCB 2025 in Liverpool (20-24 July 2025)
 
 ELIXIR Denmark had a great time at ISMB/ECCB 2025 in Liverpool engaging with colleagues and presenting our new BioGLUE project. We look forward to further interactions on the upcoming and exciting projects. 

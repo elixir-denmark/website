@@ -16,17 +16,13 @@ ELIXIR Denmark is established in a partnership between six Danish Universities a
         <img alt="Jan Gorodkin" src="/assets/images/people/people_Jan-Gorodkin.jpg" width="120" />
         <div class="caption" width="170">Jan Gorodkin, Head of Node (UCPH)</div>
     </a>
-    <a href="https://research.ku.dk/search/result/profile/?id=444148">
-        <img alt="Betina Wingreen Jensen" src="/assets/images/people/people_Betina-W-Jensen.jpg" width="120" />
-        <div class="caption" width="170">Betina Wingreen Jensen, Node Coordinator (UCPH)</div>
-    </a>
     <a href="https://www.cpr.ku.dk/staff/?id=221277&vis=medarbejder">
         <img alt="Kathrine Richter" src="/assets/images/people/people_Kathrine_Richter.jpg" width="120" />
-        <div class="caption" width="170">Kathrine Richter, Former Node Coordinator (UCPH)</div>
+        <div class="caption" width="170">Kathrine Richter, Node Coordinator (UCPH)</div>
     </a>
     <a href="https://www.sdu.dk/en/om-sdu/institutter-centre/bmb_biokemi_og_molekylaer_biologi/medarbejdere/academic/veit-schwaemmle">
         <img alt="Veit Stefan Schwämmle" src="/assets/images/people/people_Veit_Schwammle.jpg" width="120" />
-        <div class="caption" width="170">Veit Stefan Schwämmle, Project Coordinator (SDU)</div>
+        <div class="caption" width="170">Veit Stefan Schwämmle, Deputy Head of Node (SDU)</div>
     </a>
     <a href="https://researchprofiles.ku.dk/en/persons/nadezhda-t-doncheva">
         <img alt="Nadezhda T. Doncheva" src="/assets/images/people/people_Nadya-Doncheva.jpg" width="120" />

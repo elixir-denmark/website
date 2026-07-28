@@ -6,7 +6,7 @@ permalink: /events/
 ## Upcoming events
 
 27--28 October 2026, Odense, Denmark  
-10th Danish Bioinformatics Conference ([Website](https://eventsignup.ku.dk/10danishbioinfconference)]  
+10th Danish Bioinformatics Conference ([Website](https://eventsignup.ku.dk/10danishbioinfconference))  
 
 | ![Conference flyer]({{ site.baseurl }}/assets/images/events/Poster2026_SaveTheDate_200426.png) |
 |:-:|

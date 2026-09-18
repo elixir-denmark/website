@@ -16,9 +16,13 @@ ELIXIR Denmark is established in a partnership between six Danish Universities a
         <img alt="Jan Gorodkin" src="/assets/images/people/people_Jan-Gorodkin.jpg" width="120" />
         <div class="caption" width="170">Jan Gorodkin, Head of Node (UCPH)</div>
     </a>
+    <a href="https://researchprofiles.ku.dk/en/persons/zak-rehman/">
+        <img alt="Zak Rehman" src="/assets/images/people/people_Zak_Rehman.jpg" width="120" />
+        <div class="caption" width="170">Zak Rehman, Node Coordinator (UCPH)</div>
+    </a>
     <a href="https://www.cpr.ku.dk/staff/?id=221277&vis=medarbejder">
         <img alt="Kathrine Richter" src="/assets/images/people/people_Kathrine_Richter.jpg" width="120" />
-        <div class="caption" width="170">Kathrine Richter, Node Coordinator (UCPH)</div>
+        <div class="caption" width="170">Kathrine Richter, Node Support (UCPH)</div>
     </a>
     <a href="https://www.sdu.dk/en/om-sdu/institutter-centre/bmb_biokemi_og_molekylaer_biologi/medarbejdere/academic/veit-schwaemmle">
         <img alt="Veit Stefan Schwämmle" src="/assets/images/people/people_Veit_Schwammle.jpg" width="120" />

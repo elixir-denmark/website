@@ -17,7 +17,7 @@ ELIXIR Denmark is established in a partnership between six Danish Universities a
         <div class="caption" width="170">Jan Gorodkin, Head of Node (UCPH)</div>
     </a>
     <a href="https://researchprofiles.ku.dk/en/persons/zak-rehman/">
-        <img alt="Zak Rehman" src="/assets/images/people/people_Zak_Rehman.jpg" width="120" />
+        <img alt="Zak Rehman" src="/assets/images/people/people_Zak-Rehman.jpg" width="120" />
         <div class="caption" width="170">Zak Rehman, Node Coordinator (UCPH)</div>
     </a>
     <a href="https://www.cpr.ku.dk/staff/?id=221277&vis=medarbejder">

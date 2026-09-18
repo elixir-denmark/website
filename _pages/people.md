@@ -37,10 +37,6 @@ ELIXIR Denmark is established in a partnership between six Danish Universities a
 ## Steering Committee
 
 <div id="images">
-    <a href="https://vbn.aau.dk/da/persons/as">
-        <img alt="Allan Stensballe" src="/assets/images/people/people_Allan-Stensballe.jpg" width="120" />
-        <div class="caption" width="170">Allan Stensballe (AAU)</div>
-    </a>
     <a href="https://di.ku.dk/english/staff/?pure=en/persons/8330">
         <img alt="Anders Krogh" src="/assets/images/people/people_Anders-Krogh.jpg" width="120" />
         <div class="caption" width="170">Anders Krogh (UCPH)</div>
@@ -49,6 +45,10 @@ ELIXIR Denmark is established in a partnership between six Danish Universities a
         <img alt="Bartlomiej Wilkowski" src="/assets/images/people/people_Bart_Wilkowski.jpg" width="120" />
         <div class="caption" width="170">Bartlomiej Wilkowski (SSI)</div>
     </a>
+    <div>
+        <img alt="Eva Milsted Enoksen" src="/assets/images/people/people_placeholder.jpg" width="120" />
+        <div class="caption" width="170">Eva Milsted Enoksen (NGC)</div>
+    </div>
     <a href="https://ivh.ku.dk/ansatte/?pure=da/persons/35979">
         <img alt="Jan Gorodkin" src="/assets/images/people/people_Jan-Gorodkin.jpg" width="120" />
         <div class="caption" width="170">Jan Gorodkin (UCPH)</div>
@@ -61,9 +61,13 @@ ELIXIR Denmark is established in a partnership between six Danish Universities a
         <img alt="Peter Sørensen" src="/assets/images/people/people_Peter-Soerensen.jpg" width="120" />
         <div class="caption" width="170">Peter Sørensen (AU)</div>
     </a>
-    <a href="https://www.linkedin.com/in/troels-rasmussen-97021a5/">
-        <img alt="Troels Tvedegaard Rasmussen" src="/assets/images/people/people_Troels-T-Rasmussen.jpg" width="120" />
-        <div class="caption" width="170">Troels Tvedegaard Rasmussen (NGC)</div>
+    <div>
+        <img alt="Tobias Hallundbæk Petersen" src="/assets/images/people/people_placeholder.jpg" width="120" />
+        <div class="caption" width="170">Tobias Hallundbæk Petersen (NGC)</div>
+    </div>
+    <a href="https://vbn.aau.dk/da/persons/tbe/">
+        <img alt="Tue Bjerg Bennike" src="/assets/images/people/people_placeholder.jpg" width="120" />
+        <div class="caption" width="170">Tue Bjerg Bennike (AAU)</div>
     </a>
     <a href="https://www.sdu.dk/en/om-sdu/institutter-centre/bmb_biokemi_og_molekylaer_biologi/medarbejdere/academic/veit-schwaemmle">
         <img alt="Veit Stefan Schwämmle" src="/assets/images/people/people_Veit_Schwammle.jpg" width="120" />

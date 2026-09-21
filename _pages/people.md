@@ -66,7 +66,7 @@ ELIXIR Denmark is established in a partnership between six Danish Universities a
         <div class="caption" width="170">Tobias Hallundbæk Petersen (NGC)</div>
     </div>
     <a href="https://vbn.aau.dk/da/persons/tbe/">
-        <img alt="Tue Bjerg Bennike" src="/assets/images/people/people_placeholder.jpg" width="120" />
+        <img alt="Tue Bjerg Bennike" src="/assets/images/people/people_Tue-Bjerg-Bennike.jpg" width="120" />
         <div class="caption" width="170">Tue Bjerg Bennike (AAU)</div>
     </a>
     <a href="https://www.sdu.dk/en/om-sdu/institutter-centre/bmb_biokemi_og_molekylaer_biologi/medarbejdere/academic/veit-schwaemmle">

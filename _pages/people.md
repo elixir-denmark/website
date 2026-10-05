@@ -32,6 +32,10 @@ ELIXIR Denmark is established in a partnership between six Danish Universities a
         <img alt="Nadezhda T. Doncheva" src="/assets/images/people/people_Nadya-Doncheva.jpg" width="120" />
         <div class="caption" width="170">Nadezhda T. Doncheva, Data Scientist (UCPH)</div>
     </a>
+      <a href="https://researchprofiles.ku.dk/en/persons/ying-sun/">
+        <img alt="Ying Sun" src="/assets/images/people/people_placeholder.jpg" width="120" />
+        <div class="caption" width="170">Ying Sun, Data Scientist (UCPH)</div>
+    </a>
 </div>
 
 ## Steering Committee

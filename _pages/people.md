@@ -66,7 +66,7 @@ ELIXIR Denmark is established in a partnership between six Danish Universities a
         <div class="caption" width="170">Peter Sørensen (AU)</div>
     </a>
     <div>
-        <img alt="Tobias Hallundbæk Petersen" src="/assets/images/people/people_placeholder.jpg" width="120" />
+        <img alt="Tobias Hallundbæk Petersen" src="/assets/images/people/people_Tobias-Hallundbæk-Petersen.jpg" width="120" />
         <div class="caption" width="170">Tobias Hallundbæk Petersen (NGC)</div>
     </div>
     <a href="https://vbn.aau.dk/da/persons/tbe/">

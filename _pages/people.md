@@ -54,7 +54,7 @@ ELIXIR Denmark is established in a partnership between six Danish Universities a
         </div>
     </div>
     <div class="person">
-        <a href="https://researchprofiles.ku.dk/en/persons/ying-sun/"><img alt="Ying Sun" src="/assets/images/people/people_placeholder.jpg" width="120" /></a>
+        <a href="https://researchprofiles.ku.dk/en/persons/ying-sun/"><img alt="Ying Sun" src="/assets/images/people/people_Ying-Sun.jpg" width="120" /></a>
         <div class="caption">
             <a href="https://researchprofiles.ku.dk/en/persons/ying-sun/"><strong>Ying Sun</strong></a><br>
             Data Scientist (UCPH)<br>

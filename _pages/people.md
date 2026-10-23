@@ -82,7 +82,7 @@ ELIXIR Denmark is established in a partnership between six Danish Universities a
         </div>
     </div>
     <div class="person">
-        <img alt="Eva Milsted Enoksen" src="/assets/images/people/people_placeholder.jpg" width="120" />
+        <img alt="Eva Milsted Enoksen" src="/assets/images/people/people_Eva-Milsted-Enoksen.jpg" width="120" />
         <div class="caption">
             <strong>Eva Milsted Enoksen</strong><br>
             NGC<br>
